@@ -1,1 +1,2 @@
-baseurl: /easyhome
+markdown: rdiscount
+pygments: true
